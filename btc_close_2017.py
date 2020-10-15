@@ -1,7 +1,7 @@
 import json
 import pygal
 import math
-
+*更改过了哦
 
 filename = 'btc_close_2017_urllib.json'
 with open(filename) as f:
